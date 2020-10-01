@@ -1,3 +1,3 @@
 # quickinfo
 
-The free website builder
+The Amazing free website builder
